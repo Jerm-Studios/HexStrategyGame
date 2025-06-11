@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|d:\\jcom\\hexstrategygame\\hexstrategygame\\assets\\scripts\\savesystem\\saveloadui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\saveloadui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\unitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\unitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\savesystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\savesystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\volumecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\volumecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\units\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\units\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\units\\statuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\units\\statuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\visualmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\visualmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\ai\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\managers\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|D:\\JCom\\HexStrategyGame\\HexStrategyGame\\assets\\scripts\\vfx\\projectilelineeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86685C1F-B845-C2E0-8A65-2B8B5F40FE91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vfx\\projectilelineeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveLoadUI.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\SaveSystem\\SaveLoadUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveLoadUI.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\SaveSystem\\SaveLoadUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveLoadUI.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAIwAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:04:47.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GridManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GridManager.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAIwKUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:51:53.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\SaveSystem\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveLoadManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\SaveSystem\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveLoadManager.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAD4v3sBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:50:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\SaveSystem\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\GameData.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\SaveSystem\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\GameData.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:37:37.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:06:47.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CombatManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\CombatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CombatManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\CombatManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CombatManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:18:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CameraManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CameraManager.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:30:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwHIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:32:01.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\UnitManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UnitManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\UnitManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\UnitManager.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:13:57.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Units\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Units\\Unit.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Units\\Unit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Units\\Unit.cs",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAwwJIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:14:09.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VolumeControl.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\VolumeControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\VolumeControl.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\VolumeControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\VolumeControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:22:01.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\InputManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\InputManager.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:13:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UIManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\UIManager.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:15:16.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectileLineEffect.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\VFX\\ProjectileLineEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VFX\\ProjectileLineEffect.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\VFX\\ProjectileLineEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VFX\\ProjectileLineEffect.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:40:56.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\AI\\AIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\AIController.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\AI\\AIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\AIController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAYwMEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:12:53.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VisualManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\VisualManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\VisualManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\VisualManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\VisualManager.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAwwAcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:29:29.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Units\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Units\\HealthBar.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Units\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Units\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:30:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatusEffect.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Units\\StatusEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Units\\StatusEffect.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Units\\StatusEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Units\\StatusEffect.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:32:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TurnManager.cs",
+              "ToolTip": "D:\\JCom\\HexStrategyGame\\HexStrategyGame\\Assets\\Scripts\\Managers\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TurnManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:11:20.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
