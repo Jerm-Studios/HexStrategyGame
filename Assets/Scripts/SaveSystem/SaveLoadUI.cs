@@ -1,13 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
+using TMPro;
 
 public class SaveLoadUI : MonoBehaviour
 {
     [Header("UI References")]
     public GameObject savePanel;
     public GameObject loadPanel;
-    public InputField saveNameInput;
+    public TMP_InputField saveNameInput;
     public Transform saveSlotContainer;
     public Transform loadSlotContainer;
     public GameObject saveSlotPrefab;

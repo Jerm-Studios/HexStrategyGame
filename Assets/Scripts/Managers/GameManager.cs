@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour
     [HideInInspector] public UIManager UIManager;
     [HideInInspector] public AudioManager AudioManager;
     [HideInInspector] public VisualManager VisualManager;
+    [HideInInspector] public SaveLoadManager SaveLoadManager;
 
     // Game state
     public enum GameState
@@ -53,6 +54,7 @@ public class GameManager : MonoBehaviour
         UIManager = FindFirstObjectByType<UIManager>();
         AudioManager = FindFirstObjectByType<AudioManager>();
         VisualManager = FindFirstObjectByType<VisualManager>();
+        SaveLoadManager = FindFirstObjectByType<SaveLoadManager>();
 
         // Initialize the game
         InitializeGame();
@@ -72,12 +74,13 @@ public class GameManager : MonoBehaviour
         if (UIManager != null) UIManager.Initialize();
         if (AudioManager != null) AudioManager.Initialize();
         if (VisualManager != null) VisualManager.Initialize();
-        
+        if (SaveLoadManager != null) SaveLoadManager.Initialize();
 
 
 
-            // Change game state to player turn
-            ChangeState(GameState.PlayerTurn);
+
+        // Change game state to player turn
+        ChangeState(GameState.PlayerTurn);
     }
 
     public void ChangeState(GameState newState)

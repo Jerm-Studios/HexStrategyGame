@@ -1,13 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class SaveSlotUI : MonoBehaviour
 {
     [Header("UI References")]
-    public Text slotNumberText;
-    public Text saveNameText;
-    public Text saveDateText;
-    public Text turnNumberText;
+    public TextMeshProUGUI slotNumberText;
+    public TextMeshProUGUI saveNameText;
+    public TextMeshProUGUI saveDateText;
+    public TextMeshProUGUI turnNumberText;
     public Button saveButton;
     public Button deleteButton;
 

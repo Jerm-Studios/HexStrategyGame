@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using MoreMountains.Feedbacks;
 
 public class UIManager : MonoBehaviour
 {
@@ -13,6 +14,10 @@ public class UIManager : MonoBehaviour
     public Button endTurnButton;
     public GameObject settingsPanel;
 
+    //Feel!
+    [SerializeField] private MMF_Player buttonClickFeedback;
+    [SerializeField] private MMF_Player panelShowFeedback;
+    [SerializeField] private MMF_Player panelHideFeedback;
     public void Initialize()
     {
         Debug.Log("UIManager initialized");
@@ -105,4 +110,13 @@ public class UIManager : MonoBehaviour
             }
         }
     }
+    public void PlayButtonClickFeedback()
+    {
+        if (buttonClickFeedback != null)
+        {
+            buttonClickFeedback.PlayFeedbacks();
+        }
+    }
+
+
 }

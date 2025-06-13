@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using TMPro;
 using System.Collections;
+using MoreMountains.Feedbacks;
 
 public class Unit : MonoBehaviour
 {
@@ -46,6 +47,12 @@ public class Unit : MonoBehaviour
 
     // Pathfinding
     private List<HexTile> currentPath = new List<HexTile>();
+
+    //More Mountain Feel!
+    [SerializeField] private MMF_Player movementFeedback;
+    [SerializeField] private MMF_Player attackFeedback;
+    [SerializeField] private MMF_Player damageFeedback;
+    [SerializeField] private MMF_Player deathFeedback;
 
     private void Awake()
     {
@@ -233,6 +240,12 @@ public class Unit : MonoBehaviour
                 GameManager.Instance.AudioManager.PlaySFX("UnitAttack");
             }
 
+            //Play attack feedbacks (Feel!)
+            if (attackFeedback != null)
+            {
+                attackFeedback.PlayFeedbacks();
+            }
+
 
             // Check if target dodges
             if (Random.Range(0, 100) < targetUnit.DodgeChance)
@@ -286,6 +299,18 @@ public class Unit : MonoBehaviour
     {
         CurrentHealth -= damage;
 
+        //Play Feedback
+        if (damageFeedback != null)
+        {
+            damageFeedback.PlayFeedbacks();
+        }
+
+        // Update health bar
+        if (GameManager.Instance.VisualManager != null)
+        {
+            GameManager.Instance.VisualManager.UpdateHealthBar(this);
+        }
+
         // Check if the unit is defeated
         if (CurrentHealth <= 0)
         {
@@ -304,6 +329,14 @@ public class Unit : MonoBehaviour
         {
             GameManager.Instance.AudioManager.PlaySFX("UnitDie");
         }
+
+        // Play death feedback
+        if (deathFeedback != null)
+        {
+            deathFeedback.PlayFeedbacks();
+        }
+
+
 
         // Clean up visual elements
         if (GameManager.Instance.VisualManager != null)

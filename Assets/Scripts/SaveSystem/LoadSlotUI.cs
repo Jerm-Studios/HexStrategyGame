@@ -1,12 +1,13 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class LoadSlotUI : MonoBehaviour
 {
     [Header("UI References")]
-    public Text saveNameText;
-    public Text saveDateText;
-    public Text turnNumberText;
+    public TextMeshProUGUI saveNameText;
+    public TextMeshProUGUI saveDateText;
+    public TextMeshProUGUI turnNumberText;
     public Button loadButton;
     public Button deleteButton;
 
